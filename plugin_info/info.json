@@ -1,0 +1,21 @@
+{
+	"id" : "jeedom2mqtt",
+	"name" : "Jeedom 2 MQTT",
+	"description" : "Plugin permettant la connexion à MQTT.",
+	"utilization" : "",
+	"licence" : "private",
+	"author" : "fensoft",
+	"require" : "3.3.24",
+	"category" : "automation protocol",
+	"hasDependency" : true,
+	"hasOwnDeamon" : false,
+	"maxDependancyInstallTime" : 0,
+	"changelog" : "https://www.google.fr",
+	"documentation" : "https://www.google.fr",
+	"link" : {
+		"forum":"https://community.jeedom.com/tags/plugin-jeedom2mqtt",
+		"video" : ""
+	},
+	"language" : ["fr_FR", "en_US"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy","v4"]
+}
